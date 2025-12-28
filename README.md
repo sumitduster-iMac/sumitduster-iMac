@@ -41,8 +41,8 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<div style="font-size: 60px;">🍎</div>
-<br><b>🍎 Hackintosh Modding</b>
+<h2>🍎</h2>
+<b>🍎 Hackintosh Modding</b>
 <br><small>Building and maintaining Hackintosh systems with custom configurations</small>
 <br><br>
 <img src="https://img.shields.io/badge/Expertise-Advanced-success?style=flat-square" alt="Advanced"/>
@@ -50,8 +50,8 @@
 <img src="https://progress-bar.dev/90/?title=Skill&width=120&color=babaca" alt="90%"/>
 </td>
 <td align="center" width="25%">
-<div style="font-size: 60px;">⚙️</div>
-<br><b>⚙️ OCLP Mods</b>
+<h2>⚙️</h2>
+<b>⚙️ OCLP Mods</b>
 <br><small>OpenCore Legacy Patcher modifications for extending macOS support</small>
 <br><br>
 <img src="https://img.shields.io/badge/Expertise-Expert-important?style=flat-square" alt="Expert"/>
@@ -59,8 +59,8 @@
 <img src="https://progress-bar.dev/95/?title=Skill&width=120&color=babaca" alt="95%"/>
 </td>
 <td align="center" width="25%">
-<div style="font-size: 60px;">🎨</div>
-<br><b>🎨 Grok Overlays</b>
+<h2>🎨</h2>
+<b>🎨 Grok Overlays</b>
 <br><small>Custom UI overlays and system enhancements</small>
 <br><br>
 <img src="https://img.shields.io/badge/Expertise-Advanced-success?style=flat-square" alt="Advanced"/>
@@ -68,8 +68,8 @@
 <img src="https://progress-bar.dev/85/?title=Skill&width=120&color=babaca" alt="85%"/>
 </td>
 <td align="center" width="25%">
-<div style="font-size: 60px;">♻️</div>
-<br><b>♻️ Mac Revival</b>
+<h2>♻️</h2>
+<b>♻️ Mac Revival</b>
 <br><small>Extending the life of older Mac hardware</small>
 <br><br>
 <img src="https://img.shields.io/badge/Expertise-Master-blueviolet?style=flat-square" alt="Master"/>
@@ -100,22 +100,22 @@
 <table>
 <tr>
 <td align="center" width="33%">
-  <div style="font-size: 40px;">💻</div>
-  <br><b>macOS Sequoia on Older Macs</b>
+  <h3>💻</h3>
+  <b>macOS Sequoia on Older Macs</b>
   <br><small>Enabling the latest macOS on unsupported hardware</small>
   <br>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active"/>
 </td>
 <td align="center" width="33%">
-  <div style="font-size: 40px;">🔧</div>
-  <br><b>Custom Bootloader Configs</b>
+  <h3>🔧</h3>
+  <b>Custom Bootloader Configs</b>
   <br><small>Optimized OpenCore configurations for various models</small>
   <br>
   <img src="https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square" alt="Ongoing"/>
 </td>
 <td align="center" width="33%">
-  <div style="font-size: 40px;">🚀</div>
-  <br><b>Performance Optimization</b>
+  <h3>🚀</h3>
+  <b>Performance Optimization</b>
   <br><small>Maximizing system performance on legacy hardware</small>
   <br>
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" alt="In Progress"/>
@@ -242,22 +242,22 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-  <div style="font-size: 50px;">🔧</div>
-  <br><b>🔧 OpenCore Configuration</b>
+  <h2>🔧</h2>
+  <b>🔧 OpenCore Configuration</b>
   <br><small>Expert in bootloader setup and troubleshooting</small>
   <br>
   <img src="https://progress-bar.dev/95/?title=Mastery&width=150&color=4c9aff" alt="95%"/>
 </td>
 <td align="center" width="33%">
-  <div style="font-size: 50px;">🖥️</div>
-  <br><b>🖥️ Legacy Mac Hardware</b>
+  <h2>🖥️</h2>
+  <b>🖥️ Legacy Mac Hardware</b>
   <br><small>Deep knowledge of compatibility and upgrades</small>
   <br>
   <img src="https://progress-bar.dev/92/?title=Mastery&width=150&color=4c9aff" alt="92%"/>
 </td>
 <td align="center" width="33%">
-  <div style="font-size: 50px;">💿</div>
-  <br><b>💿 macOS Installation</b>
+  <h2>💿</h2>
+  <b>💿 macOS Installation</b>
   <br><small>Installing latest macOS on unsupported devices</small>
   <br>
   <img src="https://progress-bar.dev/98/?title=Mastery&width=150&color=4c9aff" alt="98%"/>
@@ -265,22 +265,22 @@
 </tr>
 <tr>
 <td align="center" width="33%">
-  <div style="font-size: 50px;">⚙️</div>
-  <br><b>⚙️ Custom Kexts</b>
+  <h2>⚙️</h2>
+  <b>⚙️ Custom Kexts</b>
   <br><small>Building and modifying kernel extensions</small>
   <br>
   <img src="https://progress-bar.dev/88/?title=Mastery&width=150&color=4c9aff" alt="88%"/>
 </td>
 <td align="center" width="33%">
-  <div style="font-size: 50px;">💻</div>
-  <br><b>💻 System Patches</b>
+  <h2>💻</h2>
+  <b>💻 System Patches</b>
   <br><small>Creating custom patches and fixes</small>
   <br>
   <img src="https://progress-bar.dev/90/?title=Mastery&width=150&color=4c9aff" alt="90%"/>
 </td>
 <td align="center" width="33%">
-  <div style="font-size: 50px;">🔬</div>
-  <br><b>🔬 Hardware Testing</b>
+  <h2>🔬</h2>
+  <b>🔬 Hardware Testing</b>
   <br><small>Thorough compatibility testing and validation</small>
   <br>
   <img src="https://progress-bar.dev/94/?title=Mastery&width=150&color=4c9aff" alt="94%"/>
@@ -334,23 +334,23 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <div style="font-size: 50px;">🏅</div>
-  <br><b>🏅 100+ Macs Revived</b>
+  <h2>🏅</h2>
+  <b>🏅 100+ Macs Revived</b>
   <br><small>Successfully modernized over 100 legacy Mac systems</small>
 </td>
 <td align="center" width="25%">
-  <div style="font-size: 50px;">⭐</div>
-  <br><b>⭐ Community Contributor</b>
+  <h2>⭐</h2>
+  <b>⭐ Community Contributor</b>
   <br><small>Active contributor to OpenCore and OCLP projects</small>
 </td>
 <td align="center" width="25%">
-  <div style="font-size: 50px;">📚</div>
-  <br><b>📚 Knowledge Sharer</b>
+  <h2>📚</h2>
+  <b>📚 Knowledge Sharer</b>
   <br><small>Helping others through guides and documentation</small>
 </td>
 <td align="center" width="25%">
-  <div style="font-size: 50px;">🔧</div>
-  <br><b>🔧 Problem Solver</b>
+  <h2>🔧</h2>
+  <b>🔧 Problem Solver</b>
   <br><small>Resolving complex hardware compatibility issues</small>
 </td>
 </tr>
