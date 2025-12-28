@@ -41,7 +41,9 @@
 </div>
 
 <!-- Animated System Info Box -->
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&duration=2000&pause=500&color=00FF00&background=0D111700&center=true&vCenter=true&width=1000&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82++SYSTEM+INFO+%E2%9A%99%EF%B8%8F++Hackintosh+Expert+%26+Mac+Hardware+Modder+%E2%94%82;%E2%94%82++%F0%9F%94%A7+OpenCore+Legacy+Patcher+Specialist+%E2%80%A2+100%2B+Macs+Revived+%E2%94%82;%E2%94%82++%F0%9F%92%BB+Making+Unsupported+Macs+Run+Latest+macOS+%E2%80%A2+Active+24%2F7+%E2%94%82;%E2%94%82++%E2%9A%A1+Legacy+Hardware+Revival+%26+System+Optimization+Expert+%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" alt="System Info" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&duration=2000&pause=500&color=00FF00&background=0D111700&center=true&vCenter=true&width=1000&lines=SYSTEM+INFO+%E2%9A%99%EF%B8%8F+Hackintosh+Expert+%26+Mac+Hardware+Modder;%F0%9F%94%A7+OpenCore+Legacy+Patcher+Specialist+%E2%80%A2+100%2B+Macs+Revived;%F0%9F%92%BB+Making+Unsupported+Macs+Run+Latest+macOS;%E2%9A%A1+Legacy+Hardware+Revival+%26+System+Optimization+Expert" alt="System Info" />
+</p>
 
 ---
 
@@ -188,11 +190,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitduster-iMac&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&langs_count=10&hide=html,css&exclude_repo=sumitduster-iMac" alt="Top Languages" />
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitduster-iMac&theme=dark&hide_border=true&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&background=0d1117" alt="Streak Stats" />
 </p>
 
 </details>
@@ -342,9 +339,9 @@
   <img src="https://img.shields.io/badge/Powered_by-OpenCore-00ff00?style=for-the-badge&logo=apple" alt="Powered by OpenCore" />
 </p>
 
-<!-- Matrix Rain Effect (Conceptual) -->
+<!-- Matrix Rain Effect (Accessible) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=10&duration=100&pause=0&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=50&lines=01001000+01000001+01000011+01001011+01001001+01001110+01010100+01001111+01010011+01001000;%E2%96%93%E2%96%92%E2%96%91+HACKINTOSH+%E2%96%91%E2%96%92%E2%96%93+EXPERT+%E2%96%93%E2%96%92%E2%96%91+MODDER+%E2%96%91%E2%96%92%E2%96%93" alt="Matrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=10&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=50&lines=01001000+01000001+01000011+01001011+01001001+01001110+01010100+01001111+01010011+01001000;%E2%96%93%E2%96%92%E2%96%91+HACKINTOSH+%E2%96%91%E2%96%92%E2%96%93+EXPERT+%E2%96%93%E2%96%92%E2%96%91+MODDER+%E2%96%91%E2%96%92%E2%96%93" alt="Matrix" />
 </p>
 
 </div>
