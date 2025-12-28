@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm a Hackintosh Modder
 
-<!--
-**sumitduster-iMac/sumitduster-iMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️🍎 Reviving Old Macs
 
-Here are some ideas to get you started:
+I specialize in breathing new life into vintage Mac hardware through modern software modifications and optimizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- 🔧 **Hackintosh Modding** - Building and maintaining Hackintosh systems with custom configurations
+- 💻 **OCLP Mods** - OpenCore Legacy Patcher modifications for extending macOS support on unsupported hardware
+- 🎨 **Grok Overlays** - Custom UI overlays and system enhancements
+- ♻️ **Mac Revival** - Extending the life of older Mac hardware with modern capabilities
+
+### 🚀 Current Focus
+
+Making unsupported Macs run the latest macOS versions through careful hardware analysis, bootloader configuration, and system optimization.
+
+### 💬 Ask Me About
+
+- OpenCore configuration and troubleshooting
+- Legacy Mac hardware compatibility
+- macOS installation on unsupported devices
+- Custom kexts and system patches
+
+---
+
+*Keeping the Mac spirit alive, one hack at a time* 🍎✨
