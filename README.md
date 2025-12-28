@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hackintosh%20Expert&fontSize=50&fontAlignY=35&animation=twinkling&desc=Breathing%20Life%20into%20Legacy%20Macs&descAlignY=55" alt="header"/>
 </p>
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hackintosh+Enthusiast+🍎;Mac+Hardware+Modder+🔧;OpenCore+Expert+💻;Making+Old+Macs+Run+New+macOS+✨;OCLP+Power+User+⚡;System+Optimization+Specialist+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hackintosh+Enthusiast+🍎;Mac+Hardware+Modder+🔧;OpenCore+Expert+💻;Making+Old+Macs+Run+New+macOS+✨;OCLP+Power+User+⚡;System+Optimization+Specialist+🚀" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sumitduster-iMac&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -203,7 +203,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sumitduster-iMac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitduster-iMac&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=sumitduster-iMac&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p>
@@ -372,7 +372,6 @@
 
 <br><br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sumitduster-iMac.sumitduster-iMac)
 ![Last Commit](https://img.shields.io/github/last-commit/sumitduster-iMac/sumitduster-iMac?style=flat-square)
 ![Profile Updated](https://img.shields.io/badge/Profile%20Updated-2025-blue?style=flat-square)
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
