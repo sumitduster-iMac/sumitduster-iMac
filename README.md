@@ -73,8 +73,8 @@
 ## 💻 Tech Stack & Tools
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![OpenCore](https://img.shields.io/badge/OpenCore-0066CC?style=for-the-badge&logo=oclp&logoColor=white)
-![Clover](https://img.shields.io/badge/Clover-00A86B?style=for-the-badge&logo=clover&logoColor=white)
+![OpenCore](https://img.shields.io/badge/OpenCore-0066CC?style=for-the-badge&logo=apple&logoColor=white)
+![Clover](https://img.shields.io/badge/Clover-00A86B?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
