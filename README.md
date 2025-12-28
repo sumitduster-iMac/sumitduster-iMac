@@ -41,7 +41,7 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="Hackintosh" width="60"/>
+<div style="font-size: 60px;">🍎</div>
 <br><b>🍎 Hackintosh Modding</b>
 <br><small>Building and maintaining Hackintosh systems with custom configurations</small>
 <br><br>
@@ -50,7 +50,7 @@
 <img src="https://progress-bar.dev/90/?title=Skill&width=120&color=babaca" alt="90%"/>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" alt="OCLP" width="60"/>
+<div style="font-size: 60px;">⚙️</div>
 <br><b>⚙️ OCLP Mods</b>
 <br><small>OpenCore Legacy Patcher modifications for extending macOS support</small>
 <br><br>
@@ -59,7 +59,7 @@
 <img src="https://progress-bar.dev/95/?title=Skill&width=120&color=babaca" alt="95%"/>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2164/2164081.png" alt="UI" width="60"/>
+<div style="font-size: 60px;">🎨</div>
 <br><b>🎨 Grok Overlays</b>
 <br><small>Custom UI overlays and system enhancements</small>
 <br><br>
@@ -68,7 +68,7 @@
 <img src="https://progress-bar.dev/85/?title=Skill&width=120&color=babaca" alt="85%"/>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/3658/3658896.png" alt="Revival" width="60"/>
+<div style="font-size: 60px;">♻️</div>
 <br><b>♻️ Mac Revival</b>
 <br><small>Extending the life of older Mac hardware</small>
 <br><br>
@@ -100,21 +100,21 @@
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="40"/>
+  <div style="font-size: 40px;">💻</div>
   <br><b>macOS Sequoia on Older Macs</b>
   <br><small>Enabling the latest macOS on unsupported hardware</small>
   <br>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Active"/>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/3104/3104648.png" width="40"/>
+  <div style="font-size: 40px;">🔧</div>
   <br><b>Custom Bootloader Configs</b>
   <br><small>Optimized OpenCore configurations for various models</small>
   <br>
   <img src="https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square" alt="Ongoing"/>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="40"/>
+  <div style="font-size: 40px;">🚀</div>
   <br><b>Performance Optimization</b>
   <br><small>Maximizing system performance on legacy hardware</small>
   <br>
@@ -242,21 +242,21 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/3176/3176376.png" width="50"/>
+  <div style="font-size: 50px;">🔧</div>
   <br><b>🔧 OpenCore Configuration</b>
   <br><small>Expert in bootloader setup and troubleshooting</small>
   <br>
   <img src="https://progress-bar.dev/95/?title=Mastery&width=150&color=4c9aff" alt="95%"/>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888882.png" width="50"/>
+  <div style="font-size: 50px;">🖥️</div>
   <br><b>🖥️ Legacy Mac Hardware</b>
   <br><small>Deep knowledge of compatibility and upgrades</small>
   <br>
   <img src="https://progress-bar.dev/92/?title=Mastery&width=150&color=4c9aff" alt="92%"/>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721666.png" width="50"/>
+  <div style="font-size: 50px;">💿</div>
   <br><b>💿 macOS Installation</b>
   <br><small>Installing latest macOS on unsupported devices</small>
   <br>
@@ -265,21 +265,21 @@
 </tr>
 <tr>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="50"/>
+  <div style="font-size: 50px;">⚙️</div>
   <br><b>⚙️ Custom Kexts</b>
   <br><small>Building and modifying kernel extensions</small>
   <br>
   <img src="https://progress-bar.dev/88/?title=Mastery&width=150&color=4c9aff" alt="88%"/>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="50"/>
+  <div style="font-size: 50px;">💻</div>
   <br><b>💻 System Patches</b>
   <br><small>Creating custom patches and fixes</small>
   <br>
   <img src="https://progress-bar.dev/90/?title=Mastery&width=150&color=4c9aff" alt="90%"/>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2919/2919906.png" width="50"/>
+  <div style="font-size: 50px;">🔬</div>
   <br><b>🔬 Hardware Testing</b>
   <br><small>Thorough compatibility testing and validation</small>
   <br>
@@ -334,22 +334,22 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://cdn-icons-png.flaticon.com/512/3588/3588314.png" width="50"/>
+  <div style="font-size: 50px;">🏅</div>
   <br><b>🏅 100+ Macs Revived</b>
   <br><small>Successfully modernized over 100 legacy Mac systems</small>
 </td>
 <td align="center" width="25%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png" width="50"/>
+  <div style="font-size: 50px;">⭐</div>
   <br><b>⭐ Community Contributor</b>
   <br><small>Active contributor to OpenCore and OCLP projects</small>
 </td>
 <td align="center" width="25%">
-  <img src="https://cdn-icons-png.flaticon.com/512/3588/3588592.png" width="50"/>
+  <div style="font-size: 50px;">📚</div>
   <br><b>📚 Knowledge Sharer</b>
   <br><small>Helping others through guides and documentation</small>
 </td>
 <td align="center" width="25%">
-  <img src="https://cdn-icons-png.flaticon.com/512/3588/3588435.png" width="50"/>
+  <div style="font-size: 50px;">🔧</div>
   <br><b>🔧 Problem Solver</b>
   <br><small>Resolving complex hardware compatibility issues</small>
 </td>
