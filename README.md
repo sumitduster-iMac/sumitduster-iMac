@@ -41,7 +41,7 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/0/747.png" alt="Hackintosh" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="Hackintosh" width="60"/>
 <br><b>🍎 Hackintosh Modding</b>
 <br><small>Building and maintaining Hackintosh systems with custom configurations</small>
 <br><br>
@@ -185,27 +185,17 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/dortania/OpenCore-Legacy-Patcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dortania&repo=OpenCore-Legacy-Patcher&theme=tokyonight&hide_border=true" alt="OCLP"/>
-  </a>
-  <br><small>🔧 Contributing to OpenCore Legacy Patcher</small>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/acidanthera/OpenCorePkg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acidanthera&repo=OpenCorePkg&theme=tokyonight&hide_border=true" alt="OpenCore"/>
-  </a>
-  <br><small>🚀 OpenCore Bootloader Development</small>
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-### 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumitduster-iMac&repo=sumitduster-iMac&theme=tokyonight&hide_border=true)](https://github.com/sumitduster-iMac/sumitduster-iMac)
+### 🤝 Contributing To
+<p>
+  <a href="https://github.com/dortania/OpenCore-Legacy-Patcher">
+    <img src="https://img.shields.io/badge/OpenCore_Legacy_Patcher-Contributor-blue?style=for-the-badge&logo=apple" alt="OCLP"/>
+  </a>
+  <a href="https://github.com/acidanthera/OpenCorePkg">
+    <img src="https://img.shields.io/badge/OpenCore_Pkg-Contributor-purple?style=for-the-badge&logo=github" alt="OpenCore"/>
+  </a>
+</p>
 
 </div>
 
@@ -252,7 +242,7 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3176/3176376.png" width="50"/>
   <br><b>🔧 OpenCore Configuration</b>
   <br><small>Expert in bootloader setup and troubleshooting</small>
   <br>
@@ -312,12 +302,6 @@
   </a>
   <a href="https://buymeacoffee.com/sumitduster">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://twitter.com/sumitduster">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/hackintosh">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
