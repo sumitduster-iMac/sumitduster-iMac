@@ -312,13 +312,12 @@
 </p>
 
 ### 💼 Open for Collaborations
-```
-🔹 Hackintosh Build Consultations
-🔹 macOS Compatibility Testing
-🔹 Custom Kext Development
-🔹 OpenCore Configuration Support
-🔹 Legacy Mac Modernization Projects
-```
+
+- 🔹 Hackintosh Build Consultations
+- 🔹 macOS Compatibility Testing
+- 🔹 Custom Kext Development
+- 🔹 OpenCore Configuration Support
+- 🔹 Legacy Mac Modernization Projects
 
 </div>
 
