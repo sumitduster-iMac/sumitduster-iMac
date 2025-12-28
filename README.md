@@ -24,10 +24,6 @@
 
 *I specialize in breathing new life into vintage Mac hardware through modern software modifications and optimizations.*
 
-[![Years Badge](https://badges.pufler.dev/years/sumitduster-iMac)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/sumitduster-iMac)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/sumitduster-iMac)](https://badges.pufler.dev)
-
 </div>
 
 ---
