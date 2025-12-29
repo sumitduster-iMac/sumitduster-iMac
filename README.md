@@ -2,7 +2,7 @@
   
 # Hi there, I'm Sumit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=800&lines=Hackintosh+Enthusiast+%F0%9F%8D%8E;macOS+Specialist+%F0%9F%92%BB;OpenCore+%26+OCLP+Expert+%F0%9F%94%A7;Breathing+New+Life+into+Legacy+Macs+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=800&lines=Hackintosh+Enthusiast+%F0%9F%8D%8E;macOS+Specialist+%F0%9F%92%BB;OpenCore+%26+OCLP+Expert+%F0%9F%94%A7;Breathing+New+Life+into+Legacy+Macs+%E2%9C%A8" alt="Typing SVG" /></a>
 
 </div>
 
@@ -93,7 +93,7 @@ I actively contribute to and support:
 
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Connect With Me
+## <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="32"> Connect With Me
 
 <div align="center">
 
