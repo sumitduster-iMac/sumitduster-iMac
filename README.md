@@ -111,7 +111,7 @@ I actively contribute to and support:
 | Repository | Description | Stars |
 |------------|-------------|-------|
 | [**OCLP-R**](https://github.com/sumitduster-iMac/OCLP-R) | OpenCore Legacy Patcher with additional features | ![Stars](https://img.shields.io/github/stars/sumitduster-iMac/OCLP-R?style=social) |
-| [**Apple-Intelligence**](https://github.com/sumitduster-iMac/Apple-Intelligence) | Apple Intelligence on Everywhere | ![Stars](https://img.shields.io/github/stars/sumitduster-iMac/Apple-Intelligence?style=social) |
+| [**Apple-Intelligence**](https://github.com/sumitduster-iMac/Apple-Intelligence) | Apple Intelligence Everywhere | ![Stars](https://img.shields.io/github/stars/sumitduster-iMac/Apple-Intelligence?style=social) |
 | [**Kernel-Debug-Kit**](https://github.com/sumitduster-iMac/Kernel-Debug-Kit) | Two-machine kernel debugging support | ![Stars](https://img.shields.io/github/stars/sumitduster-iMac/Kernel-Debug-Kit?style=social) |
 | [**WhateverGreen**](https://github.com/sumitduster-iMac/WhateverGreen) | Fork for macOS Tahoe graphics support | ![Stars](https://img.shields.io/github/stars/sumitduster-iMac/WhateverGreen?style=social) |
 
